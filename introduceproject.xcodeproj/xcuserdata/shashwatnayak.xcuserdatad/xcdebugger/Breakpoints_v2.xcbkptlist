@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "827334E2-4555-4ECC-B1D0-FBFFA033100C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9CC24453-D4CF-418F-A9E3-88AEB2A9B677"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "introduceproject/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "9CC24453-D4CF-418F-A9E3-88AEB2A9B677 - fb214258528f6ce0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "introduceproject.ViewController.firstnametextfield.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "introduceproject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shashwatnayak/Desktop/Playground/introduceproject/introduceproject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "9CC24453-D4CF-418F-A9E3-88AEB2A9B677 - 213cabbd75cd40ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "introduceproject.ViewController.firstnametextfield.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "introduceproject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shashwatnayak/Desktop/Playground/introduceproject/introduceproject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "9CC24453-D4CF-418F-A9E3-88AEB2A9B677 - 79ef33f3f3c307fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "introduceproject.ViewController.firstnametextfield.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "introduceproject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shashwatnayak/Desktop/Playground/introduceproject/introduceproject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "9CC24453-D4CF-418F-A9E3-88AEB2A9B677 - 1e1b08683b56298e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "introduceproject.ViewController.firstnametextfield.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "introduceproject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shashwatnayak/Desktop/Playground/introduceproject/introduceproject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "9CC24453-D4CF-418F-A9E3-88AEB2A9B677 - da0e5868c878428"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "introduceproject.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; introduceproject.ViewController"
+                  moduleName = "introduceproject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shashwatnayak/Desktop/Playground/introduceproject/introduceproject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "9CC24453-D4CF-418F-A9E3-88AEB2A9B677 - eda65e16bcb2222f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "introduceproject.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;introduceproject.ViewController&gt;"
+                  moduleName = "introduceproject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shashwatnayak/Desktop/Playground/introduceproject/introduceproject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
