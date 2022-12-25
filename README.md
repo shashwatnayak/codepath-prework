@@ -9,9 +9,7 @@ This is a simple application for ios development. It takes inputs for name and s
 
 ### App Walk-though
 
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif). LICEcap is a great tool for recording and you can simply upload the gif to GitHub and provide the path name in place of URL as shown below.
-
-![preworkgif1](https://github.com/shashwatnayak/codepath-prework/blob/main/preworkgif1.gif)
+![](https://github.com/shashwatnayak/codepath-prework/blob/main/preworkgif1.gif)
 
 
 ### Required Features
